@@ -1,2 +1,0 @@
-# latestnews
-Created with CodeSandbox
